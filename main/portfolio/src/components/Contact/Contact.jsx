@@ -47,7 +47,7 @@ const Contact = () =>{
                 <img src = {instagram} alt="social" />
             </a>
 
-            <a href="hhttps://AmeerulShah.github.io/portfolio/" target="_blank"  rel="noreferrer" className='social-icon'>
+            <a href="https://AmeerulShah.github.io/portfolio/" target="_blank"  rel="noreferrer" className='social-icon'>
                 <img src = {web} alt="social" />
             </a>
             
