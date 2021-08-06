@@ -6,7 +6,7 @@ export const projectsData = [
             'Used HTML,CSS,JavaScript and React to build my portfolio website and later deployed it on GitHub pages',
         imageUrl: 'https://drive.google.com/uc?export=view&id=1QTKTRylbx1WxznVV1F9LDftaT15LQ4uY',
         videoUrl: 'http://theleanprogrammer.com/aam',
-        projectUrl: '',
+        projectUrl: 'https://AmeerulShah.github.io/portfolio/',
     },
     
     {
