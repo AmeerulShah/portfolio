@@ -30,7 +30,7 @@ export const certificationsData = [
     {
         projectName: 'Red Hat Certified Specialist in Ansible Automation',
         projectDescription:
-        'Credential ID 190-129-155 ,          Click on the image to verify!',
+        'Credential ID 190-129-155, Click on the image to verify!',
         imageUrl: 'https://drive.google.com/uc?export=view&id=11yMSGtFn9r4a9fF04s07IH04ZTl8u-mg',
         videoUrl:
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY',
@@ -50,7 +50,7 @@ export const certificationsData = [
         projectName: 'Nutanix Certified Master-Multi Cloud Infrastructure',
         projectDescription: 
         'Credential ID: CSCO13712041 ,  Click on the image to verify!',
-        imageUrl: 'https://i.pcmag.com/imagery/lineups/05OQSA4rlL7876eIsOPWHNV-1.1569492718.fit_lim.size_1600x900.jpg',
+        imageUrl: 'https://www.nutanix.com/content/dam/nutanix/global/support-and-services/ncm-mci-badge.png',
         videoUrl:
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
         projectUrl: 'https://www.credly.com/badges/fc484b31-0c39-4b47-b342-b7f95ca9fd8f?source=linked_in_profile',
@@ -60,10 +60,23 @@ export const certificationsData = [
     {
         projectName: 'Nutanix Certified Professional-Multi Cloud Infrastructure',
         projectDescription: 
-        'Credential ID: CSCO13712041 ,  Click on the image to verify!',
-        imageUrl: 'https://i.pcmag.com/imagery/lineups/05OQSA4rlL7876eIsOPWHNV-1.1569492718.fit_lim.size_1600x900.jpg',
+        'Click on the image to verify!',
+        imageUrl: 'https://www.nutanix.com/content/dam/nutanix/global/support-and-services/ncp-mci-v5-badge.png',
         videoUrl:
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
         projectUrl: 'https://www.credly.com/badges/7e5f8c45-05c5-47ed-b252-181144cb292f?source=linked_in_profile',
     }
+
+
+    {
+        projectName: 'Six Sigma Principles',
+        projectDescription: 
+        'Click on the image to verify!',
+        imageUrl: 'https://assets.6sigma.us/wp-content/uploads/2017/07/Lean-Six-Sigma-e1543475153371.jpg?x30563',
+        videoUrl:
+            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
+        projectUrl: 'https://www.coursera.org/account/accomplishments/verify/7WSNXB52CWHA',
+    }
+
+    
 ];

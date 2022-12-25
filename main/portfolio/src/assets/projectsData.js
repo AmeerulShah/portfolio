@@ -13,7 +13,7 @@ export const projectsData = [
         projectName: 'RoadResQ',
         projectDescription:
             'RoadResq is an Android application based on Java. The idea behind it is to detect traffic accidents and to find immediate help.',
-        imageUrl: 'https://drive.google.com/uc?export=view&id=1QTKTRylbx1WxznVV1F9LDftaT15LQ4uY',
+        imageUrl: 'https://duet-cdn.vox-cdn.com/thumbor/0x0:1198x718/1200x800/filters:focal(599x359:600x360):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/19248566/Pasted_Graphic.jpg',
         videoUrl: 'http://theleanprogrammer.com/aam',
         projectUrl: 'https://github.com/AmeerulShah/RoadResQ',
     },
@@ -27,7 +27,7 @@ export const projectsData = [
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
         projectUrl: 'https://github.com/AmeerulShah/Stock-Market-Prediction---DL',
     },
-    
+
     {
         projectName: 'Automation of multiple tasks from a single source point using Ansible',
         projectDescription:
@@ -45,5 +45,14 @@ export const projectsData = [
         videoUrl:
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY',
         projectUrl: '',
+    },
+
+    {
+        projectName: 'Research on Post Covid Refinement of Dynamic Agile Methodologies for Hybrid First Work Culture',
+        projectDescription:
+            'This research paper aims tackles the challenges that arose post covid in the project management cycle concerning hybrid first work culture.',
+        imageUrl: 'https://cdn.vectorstock.com/i/1000x1000/02/55/research-document-logo-icon-design-vector-22640255.webp',
+        videoUrl: 'http://theleanprogrammer.com/aam',
+        projectUrl: 'https://github.com/AmeerulShah/Research-Paper-Post-Covid-Refinement-of-Dynamic-Agile-Methodologies-for-Hybrid-First-Work-Culture',
     },
 ];

@@ -39,7 +39,7 @@ export const skillList = [
 
     {
         skillName: 'Product Management',
-        skillUrl: 'https://www.pngwing.com/en/free-png-yvrux',
+        skillUrl: 'https://w7.pngwing.com/pngs/277/153/png-transparent-product-management-organization-product-manager-marketing-text-logo-computer-wallpaper-thumbnail.png',
     },
 
     {
