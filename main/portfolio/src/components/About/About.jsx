@@ -13,7 +13,7 @@ const About = () =>{
         <div className='section-container'>
             <Header
                 heading ='About Me'
-                details='SRE @ Nutanix | B.Tech(IT) @ VIT Vellore'
+                details='SRE @ Nutanix | Bachelor Of Technology in Information Technology @ VIT, Vellore, CGPA: 8.53/10 or 3.95/4(as per official WES evaluation)' 
             />
 
             {/* Middle part */}

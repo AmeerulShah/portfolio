@@ -6,6 +6,31 @@ export const skillList = [
         skillName: 'Java',
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/java.png',
     },
+    
+    {
+        skillName: 'Python',
+        skillUrl: 'https://madhavbahl.tech/portfolio-assets/java.png',
+    },
+
+    {
+        skillName: 'Figma',
+        skillUrl: 'https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU=w480-h960-rw',
+    },
+
+    {
+        skillName: 'R',
+        skillUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png',
+    },
+
+    {
+        skillName: 'SQL',
+        skillUrl: 'https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png',
+    },
+    
+    {
+        skillName: 'C++',
+        skillUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png',
+    },
 
     {
         skillName: 'HTML',
