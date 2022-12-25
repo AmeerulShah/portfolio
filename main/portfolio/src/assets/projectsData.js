@@ -62,6 +62,6 @@ export const projectsData = [
             'This research paper aims tackles the challenges that arose post covid in the project management cycle concerning hybrid first work culture.',
         imageUrl: 'https://cdn.vectorstock.com/i/1000x1000/02/55/research-document-logo-icon-design-vector-22640255.webp',
         videoUrl: 'http://theleanprogrammer.com/aam',
-        projectUrl: 'https://github.com/AmeerulShah/Research-Paper-Post-Covid-Refinement-of-Dynamic-Agile-Methodologies-for-Hybrid-First-Work-Culture',
+        projectUrl: 'https://www.overleaf.com/read/mhknnmdhyzjg',
     },
 ];

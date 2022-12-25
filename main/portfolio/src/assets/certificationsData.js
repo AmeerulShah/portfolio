@@ -65,7 +65,7 @@ export const certificationsData = [
         videoUrl:
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
         projectUrl: 'https://www.credly.com/badges/7e5f8c45-05c5-47ed-b252-181144cb292f?source=linked_in_profile',
-    }
+    },
 
 
     {
@@ -76,7 +76,7 @@ export const certificationsData = [
         videoUrl:
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
         projectUrl: 'https://www.coursera.org/account/accomplishments/verify/7WSNXB52CWHA',
-    }
+    },
 
     
 ];
