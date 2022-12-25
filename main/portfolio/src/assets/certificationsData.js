@@ -7,7 +7,7 @@ export const certificationsData = [
         imageUrl: 'https://www.scrumalliance.org/_scrum/images/badges300x300/active/SA_badge_cspo.png',
         videoUrl: 'http://theleanprogrammer.com/aam',
         projectUrl: 'https://bcert.me/bc/html/show-badge.html?b=umyfthfg',
-    }
+    },
     
     {
         projectName: 'Cisco Certified Network Associate Routing and Switching (CCNA)',
