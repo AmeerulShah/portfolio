@@ -1,6 +1,15 @@
 export const certificationsData = [
     
     {
+        projectName: 'Certified Scrum Product Owner® (CSPO®) ',
+        projectDescription:
+            'Scrum Alliance, ID: 1647432 ,          Click on the image to verify!',
+        imageUrl: 'https://www.scrumalliance.org/_scrum/images/badges300x300/active/SA_badge_cspo.png',
+        videoUrl: 'http://theleanprogrammer.com/aam',
+        projectUrl: 'https://bcert.me/bc/html/show-badge.html?b=umyfthfg',
+    }
+    
+    {
         projectName: 'Cisco Certified Network Associate Routing and Switching (CCNA)',
         projectDescription:
             'Credential ID: CSCO13712041 ,          Click on the image to verify!',
