@@ -9,7 +9,7 @@ export const skillList = [
     
     {
         skillName: 'Python',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/java.png',
+        skillUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png',
     },
 
     {
@@ -33,6 +33,16 @@ export const skillList = [
     },
 
     {
+        skillName: 'JIRA',
+        skillUrl: 'https://www.herzum.com/wp-content/uploads/2020/08/jira.jpg',
+    },
+
+    {
+        skillName: 'Product Management',
+        skillUrl: 'https://www.pngwing.com/en/free-png-yvrux',
+    },
+
+    {
         skillName: 'HTML',
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/html.png',
     },
@@ -53,7 +63,7 @@ export const skillList = [
 
     {
         skillName: 'Docker',
-        skillUrl: 'https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc',
+        skillUrl: 'https://hsf-training.github.io/hsf-training-docker/fig/Docker_logo.png',
     },
 
     {

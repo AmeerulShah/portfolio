@@ -23,7 +23,16 @@ const About = () =>{
                     <h4 className='about-sub-head'>Currently working as:</h4>
                     <p className='about-details'>
                     I am currently working as a Systems Reliability Engineer(SRE) at Nutanix in Bangalore.
+                    Few of my job responsibilites include:
                     </p>
+
+                    <ul>
+                        <li>Troubleshoot, debug, and diagnose issues related to core Nutanix products and a variety of other partner products by deep diving into the cloud infrastructure and tech stack.</li>
+                        <li>Define and spearhead product changes based on end-user feedback by collaborating with the development, product and account teams.</li>
+                        <li>Coordinate with technology partners (e.g., VMware, Citrix, Microsoft, Dell) to resolve common issues and push crucial improvements in our ecosystem.</li>
+                        <li>Created and work on internal and external knowledge bases to improve the product's serviceability.</li>
+
+                    </ul>
 
                     <h4 className='about-sub-head'>Roles & Responsibilites undertaken so far:</h4>
                     <p className='about-details'>
