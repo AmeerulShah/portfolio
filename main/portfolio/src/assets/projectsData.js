@@ -17,6 +17,15 @@ export const projectsData = [
         videoUrl: 'http://theleanprogrammer.com/aam',
         projectUrl: 'https://github.com/AmeerulShah/RoadResQ',
     },
+
+    {
+        projectName: 'VITspot',
+        projectDescription:
+            'One-stop utility app for college students, which had almost 90% of the college students as its user base.',
+        imageUrl: 'https://play-lh.googleusercontent.com/7fxhVOSMbKw7IkBstFSwgUT2qfcB7sHLPPRh7XcSCKsMMyiWgENcYBxR4lFRbHze2LE8=w480-h960-rw',
+        videoUrl: 'http://theleanprogrammer.com/aam',
+        projectUrl: 'https://play.google.com/store/apps/details?id=com.vitspot.app&hl=en_IN&gl=US',
+    },
     
     {
         projectName: 'Stock Market Prediction using Deep Learning',
