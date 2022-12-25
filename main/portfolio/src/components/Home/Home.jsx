@@ -26,7 +26,7 @@ class Home extends Component{
                 {/* modal is loaded if showmodal is true */}
                 <div className='header-text'>
                     <h1>Hey there! Welcome to my portfolio!</h1>
-                    <p>I am Ameerul, an SRE currently working at Nutanix.</p>
+                    <p>I am Ameerul, an SRE currently working at Nutanix. I am always looking to solve problems by synergizing the power of technology and management to create inclusive, impactful products.</p>
                 </div>
  
                 <div className='head-btns'>

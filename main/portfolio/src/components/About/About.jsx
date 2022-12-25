@@ -13,7 +13,7 @@ const About = () =>{
         <div className='section-container'>
             <Header
                 heading ='About Me'
-                details='SRE @ Nutanix | B.Tech(IT) @ VIT Vellore | VP-PR @ Toastmasters International and Tech Mentor @ ISOI | CCNA, RHCSA, RHCOE Ansible Certified | EdSupport Volunteer at Make A Difference, NGO '
+                details='SRE @ Nutanix | B.Tech(IT) @ VIT Vellore'
             />
 
             {/* Middle part */}
@@ -29,8 +29,10 @@ const About = () =>{
                     <p className='about-details'>
                         <ul>
                             <li>Vice President - Public Relations at Toastmasters International</li>
-                            <li>Academic Support Volunteer at Make A Difference, NGO</li>
-                            <li>Tech Mentor(DSA&Problem Solving) at Instrument Society Of India</li>
+                            <li>Product Manager - VITspot</li>
+                            <li>Academic Support Volunteer & Lead at Make A Difference, NGO</li>
+                            <li>Technical Lead & Mentor(DSA&Problem Solving) at Instrument Society Of India</li>
+
                         </ul>
                     </p> 
 
@@ -42,10 +44,16 @@ const About = () =>{
                     <h4 className='about-sub-head'>Achievements</h4>
                     <p className='about-details'>
                         <ul>
-                            <li> Published writer in the Times of Oman magazine.</li>
-                            <li>Spelligator 2008 National level finalist(Oman)</li>
-                            <li>Pianist with ABRSM certification from the Royal School of Music, London.</li>
+                            <li>Awarded the prestigious ‘STAR AWARD’ for the Financial Year 2023 in Nutanix</li>
+                            <li>Received a total of 4 other employee recognition awards within 1 year of working at Nutanix</li>
+                            <li>Runner up in VIT Hackathon for the product ‘RoadResQ’</li>
+                            <li>670,000+ content views on Quora</li>
                             <li>Completed Level 1 of “Persuasive Influence” Pathways Program in Toastmasters International</li>
+                            <li>Academic Excellence in Grade 12th for scoring an aggregate of 96.8%</li>
+                            <li>Academic Excellence in Grade 11th for scoring an aggregate of 97.87%</li>
+                            <li>Pianist with ABRSM certification from the Royal School of Music, London.</li>
+                            <li> Published writer in the Times of Oman magazine</li>
+                            <li>Spelligator 2008 National level finalist(Oman)</li>        
                         </ul>
                     </p>
 

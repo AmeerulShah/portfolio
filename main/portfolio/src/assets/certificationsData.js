@@ -45,4 +45,25 @@ export const certificationsData = [
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
         projectUrl: 'https://www.coursera.org/account/accomplishments/verify/BGJCEUQEFGM7',
     },
+
+    {
+        projectName: 'Nutanix Certified Master-Multi Cloud Infrastructure',
+        projectDescription: 
+        'Credential ID: CSCO13712041 ,  Click on the image to verify!',
+        imageUrl: 'https://i.pcmag.com/imagery/lineups/05OQSA4rlL7876eIsOPWHNV-1.1569492718.fit_lim.size_1600x900.jpg',
+        videoUrl:
+            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
+        projectUrl: 'https://www.credly.com/badges/fc484b31-0c39-4b47-b342-b7f95ca9fd8f?source=linked_in_profile',
+    },
+
+
+    {
+        projectName: 'Nutanix Certified Professional-Multi Cloud Infrastructure',
+        projectDescription: 
+        'Credential ID: CSCO13712041 ,  Click on the image to verify!',
+        imageUrl: 'https://i.pcmag.com/imagery/lineups/05OQSA4rlL7876eIsOPWHNV-1.1569492718.fit_lim.size_1600x900.jpg',
+        videoUrl:
+            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
+        projectUrl: 'https://www.credly.com/badges/7e5f8c45-05c5-47ed-b252-181144cb292f?source=linked_in_profile',
+    }
 ];

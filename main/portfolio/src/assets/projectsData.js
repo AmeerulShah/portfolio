@@ -8,7 +8,27 @@ export const projectsData = [
         videoUrl: 'http://theleanprogrammer.com/aam',
         projectUrl: 'https://AmeerulShah.github.io/portfolio/',
     },
+
+    {
+        projectName: 'RoadResQ',
+        projectDescription:
+            'RoadResq is an Android application based on Java. The idea behind it is to detect traffic accidents and to find immediate help.',
+        imageUrl: 'https://drive.google.com/uc?export=view&id=1QTKTRylbx1WxznVV1F9LDftaT15LQ4uY',
+        videoUrl: 'http://theleanprogrammer.com/aam',
+        projectUrl: 'https://AmeerulShah.github.io/portfolio/',
+    },
     
+    {
+        projectName: 'Stock Market Prediction using Deep Learning',
+        projectDescription: 
+        "Researched about the domain and used TensorFlow,Keras,LSTM Model to maximise returns in the stock market.",
+        imageUrl: 'https://dz2cdn1.dzone.com/storage/temp/13614232-predicting.png',
+        videoUrl:
+            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
+        projectUrl: '',
+    },
+    
+
     {
         projectName: 'Automation of System Administration tasks by Ansible',
         projectDescription:
@@ -19,23 +39,15 @@ export const projectsData = [
         projectUrl: '',
     },
     {
-        projectName: 'Pascal case based pattern searching and printing in Java.',
+        projectName: ' URL Predictor/Suggestor using advanced data structures for enhanced performance.',
         projectDescription:
-            'Used a customised form of the Trie data structure in Java for Pascal case based pattern searching and printing.Can be extended for URL Suggestion/Prediction using Tries',
+            'Used a customised form of the Trie data structure in Java for Pascal case based pattern searching and printing. This concept and idea was extended to implement URL Suggestion/Prediction',
         imageUrl: 'https://www.filepicker.io/api/file/t12BZqmRoulvCTDhoYie',
         videoUrl:
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY',
         projectUrl: '',
     },
-    {
-        projectName: 'Stock Market Prediction using Deep Learning',
-        projectDescription: 
-        "Researched about the domain and used TensorFlow,Keras,LSTM Model to maximise returns in the stock market.",
-        imageUrl: 'https://dz2cdn1.dzone.com/storage/temp/13614232-predicting.png',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
-        projectUrl: '',
-    },
+   
     {
         projectName: 'Machine Learning - OpenCV ',
         projectDescription:
