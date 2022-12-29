@@ -53,7 +53,7 @@ export const projectsData = [
         imageUrl: 'https://www.filepicker.io/api/file/t12BZqmRoulvCTDhoYie',
         videoUrl:
             'https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY',
-        projectUrl: '',
+        projectUrl: 'https://github.com/AmeerulShah/URL-Predictor-Suggestor',
     },
 
     {
