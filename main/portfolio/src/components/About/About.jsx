@@ -13,14 +13,14 @@ const About = () =>{
         <div className='section-container'>
             <Header
                 heading ='About Me'
-                details='SRE @ Nutanix | Bachelor Of Technology in Information Technology @ VIT, Vellore, CGPA: 8.53/10 or 3.95/4(as per official WES evaluation)' 
+                details='MEM_25 Grad Student @ Dartmouth| Product Analyst/SRE @ Nutanix | Bachelor Of Technology in Information Technology @ VIT, Vellore, CGPA: 3.95/4' 
             />
 
             {/* Middle part */}
             <div className='about-main'>
                 <div className='about-main-left'>
 
-                    <h4 className='about-sub-head'>Currently working as:</h4>
+                    <h4 className='about-sub-head'>My work experience at Nutanix:</h4>
                     <p className='about-details'>
                     I am currently working as a Systems Reliability Engineer(SRE) at Nutanix in Bangalore.
                     Few of my job responsibilites include:
